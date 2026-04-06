@@ -1,22 +1,17 @@
-# 八字命理 AI — Claude Code Skill
+<div align="center">
 
-### BaZi (Four Pillars of Destiny) AI Reading for Claude Code
+# 八字命理 AI
+
+**天干地支 · 五行生克 · 十神论命 · 大运流年**
+
+*Four Pillars of Destiny — AI Reading for Claude Code*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-blueviolet)](https://docs.anthropic.com/en/docs/claude-code)
 
 ---
 
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║              八 字 命 理 A I                      ║
-║           Four Pillars of Destiny                ║
-║                                                  ║
-║   天干地支 · 五行生克 · 十神论命 · 大运流年      ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+</div>
 
 > **小红书 #deepseek算命 4200万浏览** | **DeepSeek 春节被算命请求挤爆服务器** | **Claude Code 八字命理 skill = 0 ... 直到现在**
 
